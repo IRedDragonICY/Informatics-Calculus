@@ -1,0 +1,8 @@
+Materi (Setelah UK 2)
+1. Menjelaskan tentang integral rangkap dua
+2. Menjelaskan tentang integral rangkap tiga
+3. Menjelaskan tentang aplikasi integral rangkap (menghitung titik berat)  
+4. Menjelaskan tentang integral tak wajar tipe 1
+5. Menjelaskan tentang integral tak wajar tipe 2
+6. Menjelaskan tentang integral garis
+7. Menyelesaikan kasus penggunaan kalkulus pada bidang teknik informatika
